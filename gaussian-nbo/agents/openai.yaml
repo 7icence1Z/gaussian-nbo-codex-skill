@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gaussian NBO"
+  short_description: "Compact Gaussian NBO companion to Gauss-DFT-Ultimate"
+  default_prompt: "Use $gaussian-nbo with gaussian-dft-ultimate to run and interpret Gaussian NBO analysis."
