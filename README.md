@@ -1,6 +1,6 @@
 # Gaussian NBO Codex skill
 
-A compact companion to the separately installed **Gauss-DFT-Ultimate** (`gaussian-dft-ultimate`) skill. Instructions are in Chinese; they cover embedded NBO discovery, checkpoint reuse, Windows Gaussian invocation, and donor–acceptor interpretation.
+A compact companion to the separately installed [**Gauss-DFT-Ultimate**](https://github.com/lamchales50/Gaussian-DFT-Ultimate) (`gaussian-dft-ultimate`) skill. Instructions are in Chinese; they cover embedded NBO discovery, checkpoint reuse, Windows Gaussian invocation, and donor–acceptor interpretation.
 
 ## Install
 
